@@ -195,3 +195,11 @@ These findings have several implications:
    - Data-driven strategies, guided by patterns and insights, can contribute to more successful resolutions and crime prevention.
 
 
+
+
+## License
+
+This project is licensed under the MIT License - see the LICENSE.txt file for details.
+
+
+
