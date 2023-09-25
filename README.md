@@ -25,7 +25,7 @@ The data used for this analysis was sourced from [[DataSF](https://data.sfgov.or
 
 ## Analysis
 
-### 1. Analyzing Day of the Week
+### I. Analyzing Day of the Week
 
 We analyzed the data to understand if there are specific days of the week when car break-ins are more likely to occur. This analysis provides insights into temporal patterns of these incidents.
 
@@ -70,9 +70,7 @@ We analyzed the data to understand if there are specific days of the week when c
    In conclusion, these implications can serve as a starting point for policymakers, law enforcement agencies, and community stakeholders in their efforts to reduce car break-ins and enhance the safety of San Francisco residents.
    
 
-### 2. Yearly Trends
-
-### Yearly Trends
+### II. Yearly Trends
 
 In this section, we delve into the trends in car break-ins over the years. Understanding how the frequency of these incidents has evolved can provide valuable insights for addressing the issue and making informed decisions.
 
@@ -104,7 +102,7 @@ To conduct this analysis, we first filtered the dataset to include only car brea
 -These implications provide a roadmap for addressing the issue of car break-ins in San Francisco in a manner that is responsive to the evolving trends.
 
 
-### 3. Neighborhood and Police District Analysis
+### III. Neighborhood Analysis
 
 We explored the data based on neighborhoods and police districts to provide insights into the geographical distribution of car break-ins. Are certain areas more susceptible to these incidents?
 
@@ -126,7 +124,7 @@ To conduct the Neighborhood Analysis, we extracted and grouped the data by neigh
 - **Hotspots:** Neighborhoods like North Beach, Financial District/South Beach,Mission, Russian Hill, Hayes Valley,South of Market,Marina,Western Addition,Outer Richmond and the Tenderloin stand out as hotspots for car break-ins, warranting specific attention and preventive measures.
 
 
-### Police District Analysis
+### IV.Police District Analysis
 
 In this section, we delve into the distribution of car break-ins across different police districts within San Francisco. Analyzing incidents by police district provides insights into law enforcement efforts and resource allocation.
 
@@ -144,7 +142,7 @@ Similar to the Neighborhood Analysis, we grouped the data by police districts an
 - **Resource Allocation:** Police districts such as Central District,Northern District and Richmond District may require additional resources and attention to address the elevated levels of car break-ins.
 
 
-### 4. Resolution Status
+### V. Resolution Status
 
 ### Resolution Status Analysis
 
@@ -167,33 +165,33 @@ To conduct the Resolution Status Analysis, we categorized car break-in cases bas
 - **Community Confidence:** Effective resolution of cases contributes to community confidence in law enforcement and encourages prompt reporting of incidents.
 
 
-## Findings
+### Findings
 
 -Based on our analysis of car break-ins in San Francisco, several key findings and insights have emerged:
 
-    Day of the Week Analysis:
+   Day of the Week Analysis:
         Car break-ins are most frequent on Fridays and Saturdays, followed by Sundays and Mondays. The weekdays generally exhibit lower incident rates, with Tuesdays having the lowest occurrence.
 
-    Yearly Trends:
-        The analysis of yearly trends shows that car break-ins peaked in 2018, followed by 2019. There was a noticeable decrease in incidents in 2020, followed by fluctuations in 2021, 2022, and 2023.
+   Yearly Trends:
+      The analysis of yearly trends shows that car break-ins peaked in 2018, followed by 2019. There was a noticeable decrease in incidents in 2020, followed by fluctuations in 2021, 2022, and 2023.
 
-    Neighborhood Analysis:
+   Neighborhood Analysis:
         Certain neighborhoods, such as North Beach, Financial District/South Beach,Mission, Russian Hill, Hayes Valley,South of Market,Marina,Western Addition,Outer Richmond and the Tenderloin, stand out as hotspots for car break-ins, requiring targeted preventive measures and community engagement.
 
-    Police District Analysis:
+   Police District Analysis:
         Specific police districts, like Central District,Northern District and Richmond District, experience higher incident rates, indicating the need for resource allocation and strategic law enforcement efforts.
 
-    Resolution Status:
+   Resolution Status:
         A significant majority of reported car break-in cases remain unresolved, underlining the challenges in effectively addressing this issue. Law enforcement efforts should focus on improving resolution rates.
 
-##Implications
+### Implications
 
 These findings have several implications:
 
-    Enhanced community engagement and awareness campaigns can play a vital role in preventing car break-ins and aiding in investigations.
+   Enhanced community engagement and awareness campaigns can play a vital role in preventing car break-ins and aiding in investigations.
 
-    Targeted law enforcement efforts and resource allocation in high-incident neighborhoods and police districts are essential for effective crime reduction.
+   Targeted law enforcement efforts and resource allocation in high-incident neighborhoods and police districts are essential for effective crime reduction.
 
-    Data-driven strategies, guided by patterns and insights, can contribute to more successful resolutions and crime prevention.
+   Data-driven strategies, guided by patterns and insights, can contribute to more successful resolutions and crime prevention.
 
 
