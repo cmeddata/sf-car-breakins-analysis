@@ -99,7 +99,7 @@ To conduct this analysis, we first filtered the dataset to include only car brea
 
 - Recognizing the upward trend, city officials and law enforcement agencies should consider allocating additional resources to address the growing issue of car break-ins. Targeting resources this year and the following as the data shows that the number of car break-ins are on track to reach pre-covid numbers.
   
--These implications provide a roadmap for addressing the issue of car break-ins in San Francisco in a manner that is responsive to the evolving trends.
+- These implications provide a roadmap for addressing the issue of car break-ins in San Francisco in a manner that is responsive to the evolving trends.
 
 
 ### III. Neighborhood Analysis
@@ -158,40 +158,40 @@ To conduct the Resolution Status Analysis, we categorized car break-in cases bas
 
 ![Status](https://github.com/cmeddata/sf-car-breakins-analysis/assets/124543750/3a7e632f-6123-48be-8d52-351333ff8b56)
 
--**Implications:** The analysis underscores the challenge of addressing car break-ins effectively, with a substantial number of cases still active. This calls for a concerted effort to enhance resolution rates and investigative processes. This could also mean that the same people doing car break-ins during it's peak at 2018 are the same people doing it today at 2023.
+- **Implications:** The analysis underscores the challenge of addressing car break-ins effectively, with a substantial number of cases still active. This calls for a concerted effort to enhance resolution rates and investigative processes. This could also mean that the same people doing car break-ins during it's peak at 2018 are the same people doing it today at 2023.
 
--**Areas of Concern:** Neighborhoods such as North Beach, Financial District/South Beach,Mission, Russian Hill, Hayes Valley,South of Market,Marina,Western Addition,Outer Richmond and the Tenderloin may have a particularly high proportion of unresolved cases, necessitating targeted interventions.
+- **Areas of Concern:** Neighborhoods such as North Beach, Financial District/South Beach,Mission, Russian Hill, Hayes Valley,South of Market,Marina,Western Addition,Outer Richmond and the Tenderloin may have a particularly high proportion of unresolved cases, necessitating targeted interventions.
 
 - **Community Confidence:** Effective resolution of cases contributes to community confidence in law enforcement and encourages prompt reporting of incidents.
 
 
 ### Findings
 
--Based on our analysis of car break-ins in San Francisco, several key findings and insights have emerged:
+- Based on our analysis of car break-ins in San Francisco, several key findings and insights have emerged:
 
-   Day of the Week Analysis:
+   - Day of the Week Analysis:
         Car break-ins are most frequent on Fridays and Saturdays, followed by Sundays and Mondays. The weekdays generally exhibit lower incident rates, with Tuesdays having the lowest occurrence.
 
-   Yearly Trends:
+   - Yearly Trends:
       The analysis of yearly trends shows that car break-ins peaked in 2018, followed by 2019. There was a noticeable decrease in incidents in 2020, followed by fluctuations in 2021, 2022, and 2023.
 
-   Neighborhood Analysis:
+   - Neighborhood Analysis:
         Certain neighborhoods, such as North Beach, Financial District/South Beach,Mission, Russian Hill, Hayes Valley,South of Market,Marina,Western Addition,Outer Richmond and the Tenderloin, stand out as hotspots for car break-ins, requiring targeted preventive measures and community engagement.
 
-   Police District Analysis:
+   - Police District Analysis:
         Specific police districts, like Central District,Northern District and Richmond District, experience higher incident rates, indicating the need for resource allocation and strategic law enforcement efforts.
 
-   Resolution Status:
+   - Resolution Status:
         A significant majority of reported car break-in cases remain unresolved, underlining the challenges in effectively addressing this issue. Law enforcement efforts should focus on improving resolution rates.
 
 ### Implications
 
 These findings have several implications:
 
-   Enhanced community engagement and awareness campaigns can play a vital role in preventing car break-ins and aiding in investigations.
+   - Enhanced community engagement and awareness campaigns can play a vital role in preventing car break-ins and aiding in investigations.
 
-   Targeted law enforcement efforts and resource allocation in high-incident neighborhoods and police districts are essential for effective crime reduction.
+   - Targeted law enforcement efforts and resource allocation in high-incident neighborhoods and police districts are essential for effective crime reduction.
 
-   Data-driven strategies, guided by patterns and insights, can contribute to more successful resolutions and crime prevention.
+   - Data-driven strategies, guided by patterns and insights, can contribute to more successful resolutions and crime prevention.
 
 
