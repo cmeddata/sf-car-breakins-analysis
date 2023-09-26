@@ -10,7 +10,6 @@ This project focuses on analyzing car break-ins in San Francisco using available
 - [Data](#data)
 - [Analysis](#analysis)
 - [Findings](#findings)
-- [Contributing](#contributing)
 - [License](#license)
 
 ## Data
