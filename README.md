@@ -50,10 +50,6 @@ We analyzed the data to understand if there are specific days of the week when c
 
    - **Midweek Lulls:** Conversely, car break-ins are lowest on Tuesdays, with Wednesdays and Thursdays following suit. These midweek lulls may be attributed to decreased social activity due to work.
 
-   - **Resolution Status:** We observed that while weekends had higher incidents, they also had a lower resolution rate. This might indicate a backlog of unresolved cases due to the surge in incidents over the weekend.
-
-   These trends provide valuable insights for city officials and law enforcement agencies to consider when planning resources and strategies to address car break-ins in San Francisco.
-
 
 3. **Implications:**
 
@@ -66,8 +62,6 @@ We analyzed the data to understand if there are specific days of the week when c
    - **Data Collection and Analysis:** Continuous monitoring and analysis of incident data by day of the week can help adapt strategies over time. Regular updates and refinements to policies and interventions based on changing patterns are essential.
 
    It's important to note that while our analysis provides valuable insights, it does not account for all factors contributing to car break-ins. Sociodemographic factors, economic conditions, and other external variables may also play a role and warrant further investigation.
-
-   In conclusion, these implications can serve as a starting point for policymakers, law enforcement agencies, and community stakeholders in their efforts to reduce car break-ins and enhance the safety of San Francisco residents.
    
 
 ### II. Yearly Trends
@@ -91,15 +85,13 @@ To conduct this analysis, we first filtered the dataset to include only car brea
 
    This data highlights the fluctuation in car break-ins over the years, with some years experiencing surges in incidents.
 
-- **Resolution Rates:** Our analysis also considered the resolution rates for these years. [Discuss any trends or insights related to resolution rates.]
+- **This years numbers:** While San Francisco this year has currently been getting a lot of attention online for the numerous break-ins that we have been having this year, The numbers aren't even close to reaching pre-covid numbers such as the peak at 2018 and 2019. But then again, we still have three more months to go and the peak season which is the holidays could increase this years numbers substantially.
 
 ![Years](https://github.com/cmeddata/sf-car-breakins-analysis/assets/124543750/42854a1b-f826-4ed0-abdc-c409acc59457)
 
 #### Implications
 
 - Recognizing the upward trend, city officials and law enforcement agencies should consider allocating additional resources to address the growing issue of car break-ins. Targeting resources this year and the following as the data shows that the number of car break-ins are on track to reach pre-covid numbers.
-  
-- These implications provide a roadmap for addressing the issue of car break-ins in San Francisco in a manner that is responsive to the evolving trends.
 
 
 ### III. Neighborhood Analysis
