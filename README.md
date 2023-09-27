@@ -77,10 +77,11 @@ To conduct this analysis, we first filtered the dataset to include only car brea
 
    - **2018:** The year with the highest number of car break-ins, signaling a significant issue that required attention.
    - **2019:** Following closely, 2019 also had a notable increase in car break-ins.
-   - **2022:** A relatively high number of incidents occurred in 2022, indicating a persistent concern.
-   - **2021:** While lower than 2018 and 2019, 2021 saw a significant number of car break-ins which may be due to eveything reopening again from COVID-19.
-   - **2023:** A noticeable increase compared to previous years, suggesting an emerging trend.
    - **2020:** Car break-ins in 2020 were relatively lower than other years but still require vigilance this may be due to the COVID-19 virus that has plagued the world..
+   - **2021:** While lower than 2018 and 2019, 2021 saw a significant number of car break-ins which may be due to eveything reopening again from COVID-19.
+   - **2022:** A relatively high number of incidents occurred in 2022, indicating a persistent concern.
+   - **2023:** A noticeable increase compared to previous years, suggesting an emerging trend.
+   
 
    This data highlights the fluctuation in car break-ins over the years, with some years experiencing surges in incidents.
 
